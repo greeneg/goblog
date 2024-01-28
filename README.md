@@ -1,5 +1,4 @@
 # Blog - A simple GoLang based blogging backend
----
 
 Example code built to use Gin and SQLite3 with GoLang meant to teach how to use these modules.
 
